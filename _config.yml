@@ -25,7 +25,7 @@ author:
   name             : "Python Developer"
   pronouns         : # example: "she/her"  
   bio              : "Curiosity at beginnings."
-  location         : "Earth"
+  location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
